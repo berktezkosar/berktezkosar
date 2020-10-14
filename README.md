@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Berk Tezkosar</h1>
 <h3 align="center">I'm a Control System Simulation Engineer, interested in and talking about Python, Machine Learning and Software Engineering</h3>
+<p align="center"> <a href="https://twitter.com/berktezkosar" target="blank"><img src="https://img.shields.io/twitter/follow/berktezkosar?logo=twitter&style=for-the-badge" alt="berktezkosar" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/berktezkosar" target="blank"><img src="https://img.shields.io/twitter/follow/berktezkosar?logo=twitter&style=for-the-badge" alt="berktezkosar" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=berktezkosar&label=Profile%20views&color=0e75b6&style=flat" alt="berktezkosar" /> </p>
 
 - 🔭 I’m currently working on "*Modeling and Control of Heavy-Duty BEV Components*" and [Data Analysis](https://github.com/berktezkosar/Udacity-Data-Analyst-Nanodegree)
 
@@ -13,9 +14,9 @@
 
 - 👨‍💻 All of my projects are available at [github.com/berktezkosar](github.com/berktezkosar)
 
-- 📝 I regulary write articles on [linkedin.com/in/berktezkosar](linkedin.com/in/berktezkosar)
+- 📝 I occasionally write articles on [linkedin.com/in/berktezkosar](linkedin.com/in/berktezkosar)
 
-- 📫 How to reach me **berktezkosar@gmail.com**
+- 📫 How to reach me **berktezkosar@gmail.com** or just contact via social media!
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
