@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=berktezkosar&label=Profile%20views&color=0e75b6&style=flat" alt="berktezkosar" /> </p>
 
-- 🔭 I’m currently working on "*Modeling and Control of Heavy-Duty BEV Components*" and [Data Analysis](https://github.com/berktezkosar/Udacity-Data-Analyst-Nanodegree)
+- 🔭 I’m currently working on "*Modeling and Control of Heavy-Duty BEV Components*"
 
 - 🌱 I’m currently learning **Structure and Interpretation of Computer Programs** and **Machine Learning Algorithms**
 
